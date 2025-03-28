@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zongrui's Homepage"
+title                    : "Jiahe Shen"
 title_separator          : "-"
-name                     : &name "Zongrui Yang"
+name                     : &name "Jiahe Shen"
 description              : &description "personal description"
-url                      : https://ZongruiYang1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Hank1999Shen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZongruiYang1/ZongruiYang1.github.io/"
+repository               : "Hank1999Shen/Hank1999Shen.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zongrui Yang"
+  name             : "Jiahe Shen"
   avatar           : "Zongrui(1)(1).png"
   bio              : "Math PhD student"
   location         : "Manhattan, New York"
   employer         : "Columbia University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7ivO_CsAAAAJ&hl=en&oi=ao"
-  email            : "zy2417@columbia.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=wwkmf38AAAAJ&hl=en&oi=ao"
+  email            : "js6157@columbia.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZongruiYang1"
+  github           : "Hank1999Shen"
   google_plus      :
   keybase          :
   instagram        :
