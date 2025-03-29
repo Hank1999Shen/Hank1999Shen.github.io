@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi there, I'm Jiahe, 
-who is fond of Integrable Probability and KPZ Universality!"
+who is fond of random matrices and number theory!"
 excerpt: "About me" 
 author_profile: true
 redirect_from: 
