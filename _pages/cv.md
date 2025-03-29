@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Peking University, 2020
-* Ph.D in Mathematics, Columbia University, 2026 (expected)
+* B.S. in Mathematics, Peking University, 2022
+* Ph.D in Mathematics, Columbia University, 2027 (expected)
 
 
 Publications
