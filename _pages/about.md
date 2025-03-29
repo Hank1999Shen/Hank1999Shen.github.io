@@ -17,6 +17,6 @@ More about me
 
 My research interests mainly lie in random partitions, random matrices, and their connections with number theory and representation theory.
 
-So far, my appeared works are about stationary measures for the open asymmetric simple exclusion process and for integrable polymer models and six-vertex models on a strip. See my [PUBLICATIONS LIST](https://ZongruiYang1.github.io/publications/).
+So far, my appeared works are about non-archimedean random matrices. See my [publications list](https://Hank1999Shen.github.io/publications/).
 
-For the talks I gave, see my [TALKS LIST](https://ZongruiYang1.github.io/talks/).
+For the talks I gave, see my [TALKS LIST](https://Hank1999Shen.github.io/talks/).
