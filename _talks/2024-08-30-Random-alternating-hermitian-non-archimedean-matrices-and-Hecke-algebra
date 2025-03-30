@@ -1,0 +1,12 @@
+
+---
+title: "Random alternating/hermitian non-archimedean matrices and Hecke algebra"
+collection: talks
+type: "Talk"
+#permalink: Hank1999Shen.github.io/_talks/2024-08-30-Random-alternating-hermitian-non-archimedean-matrices-and-Hecke-algebra
+
+date: 2024-08-30
+location: "Morningside Center of Mathematics, Chinese Center of Mathematics"
+---
+
+Random non-archimedean matrices play an important role in Cohen-Lenstra heuristics, whose singular numbers provide information for the distribution of ideal class groups for quadratic extension and Tate-Shafarevich groups of elliptic curves. In this talk, I will provide our result on the distribution of singular numbers for random alternating and Hermitian non-archimedean matrices, based on our new application of Hecke algebra.
