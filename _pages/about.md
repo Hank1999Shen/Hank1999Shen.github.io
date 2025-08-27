@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD candidate at Columbia University, supervised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/). I was an undergraduate student at Peking University.
+I am a fourth year PhD candidate at Columbia University, supervised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/). I was an undergraduate student at Peking University.
 
 
 More about me
