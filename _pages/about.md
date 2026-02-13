@@ -14,8 +14,6 @@ I am a fourth year PhD candidate at Columbia University, supervised by [Professo
 More about me
 ======
 
-My research interests mainly lie in random partitions, random matrices, and their connections with number theory and representation theory.
-
-So far, my appeared works are about non-archimedean random matrices. See my [publications list](https://Hank1999Shen.github.io/publications/).
+My research mainly lies in p-adic random matrices with connections to number theory, (Hecke algebra and spherical functions, Sawin-Wood moment method, L-functions, etc.). Beside from that, I am also interested in discrete probability, discrete geometry and Fourier analysis. See my [publications list](https://Hank1999Shen.github.io/publications/).
 
 For the talks I gave, see my [TALKS LIST](https://Hank1999Shen.github.io/talks/).
