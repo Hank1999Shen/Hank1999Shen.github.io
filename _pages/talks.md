@@ -7,7 +7,7 @@ author_profile: true
 
 ## Invited Talks and Seminars
 
-- The Ohio State University, Minicourse on Cohen-Lenstra Statistics, May 2026
+- The Ohio State University, Mini-course on Cohen-Lenstra-type heuristics for random matrices, May 2026
 - UT Austin, Number Theory Seminar, Apr 2026
 - University of Science and Technology of China, Number Theory Seminar (Zoom), Apr 2026
 - UGA, Number Theory Seminar, Mar 2026
