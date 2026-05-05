@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate at Columbia University, supervised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/) and Roger Van Peski (https://www.math.columbia.edu/~rv2549/). I was an undergraduate student at Peking University during 2018-2022.
+I am a fourth year PhD candidate at Columbia University, supervised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/) and Roger Van Peski (https://www.math.columbia.edu/~rv2549/). I was an undergraduate student at Peking University during 2018--2022.
 
 More about me
 ======
 
-My research covers several directions around probabilty, with connections to representation theory, number theory, additive combinatorics, and Fourier analysis. See my [publications list](https://Hank1999Shen.github.io/publications/).
+My research covers several directions around probability, with connections to representation theory, number theory, additive combinatorics, and Fourier analysis. See my [publications list](https://Hank1999Shen.github.io/publications/).
 
-For the talks I gave, see my [TALKS LIST](https://Hank1999Shen.github.io/talks/).
+For the talks I gave, see my [talks list](https://Hank1999Shen.github.io/talks/).
