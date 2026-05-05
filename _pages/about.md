@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate at Columbia University, supervised by [Professor Ivan Corwin](https://www.math.columbia.edu/~corwin/) and Roger Van Peski (https://www.math.columbia.edu/~rv2549/). I was an undergraduate student at Peking University during 2018--2022.
+I am a fourth year PhD candidate at Columbia University, supervised by [Ivan Corwin](https://www.math.columbia.edu/~corwin/) and [Roger Van Peski](https://www.math.columbia.edu/~rv2549/). I was an undergraduate student at Peking University during 2018--2022.
 
 More about me
 ======
