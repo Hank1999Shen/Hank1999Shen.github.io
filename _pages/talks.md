@@ -7,6 +7,10 @@ author_profile: true
 
 ## Invited Talks and Seminars
 
+- Morningside Center of Mathematics, MCM Lecture, June 2026
+- Peking University, Number Theory Seminar, June 2026
+- Zhejiang University, IASM Invited Lecture, June 2026
+- Fudan University, Mini-workshop on Random Matrices, June 2026
 - The Ohio State University, Mini-course on Cohen-Lenstra-type heuristics for random matrices, May 2026
 - UT Austin, Number Theory Seminar, Apr 2026
 - University of Science and Technology of China, Number Theory Seminar (Zoom), Apr 2026
