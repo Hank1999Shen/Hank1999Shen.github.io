@@ -7,6 +7,7 @@ author_profile: true
 
 ## Invited Talks and Seminars
 
+- Simons Center for Geometry and Physics, lightning talk, July 2026
 - Morningside Center of Mathematics, MCM Lecture, June 2026
 - Peking University, Number Theory Seminar, June 2026
 - Zhejiang University, IASM Invited Lecture, June 2026
