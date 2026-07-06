@@ -17,7 +17,7 @@ author_profile: true
 - University of Science and Technology of China, Number Theory Seminar (Zoom), Apr 2026
 - University of Georgia, Number Theory Seminar, Mar 2026
 - Fudan University, Probability Seminar (Zoom), Mar 2026
-- NYU Courant Geometry Seminar, Feb 2026
+- NYU Courant, Geometry Seminar, Feb 2026
 - Peking University, Algebra and Number Theory Summer School, Jul 2025
 - Morningside Center of Mathematics, Informal Talk, Aug 2024
 
