@@ -16,3 +16,5 @@ More about me
 My research covers several directions around probability, with connections to representation theory, number theory, additive combinatorics, and Fourier analysis. See my [publications list](https://Hank1999Shen.github.io/publications/).
 
 For the talks I gave, see my [talks list](https://Hank1999Shen.github.io/talks/).
+
+I have served as a referee for Selecta Mathematica, Electronic Journal of Probability, Annales de l'Institut Henri Poincaré, Electronic Communications in Probability, and Stochastic Processes and their Applications.
