@@ -26,9 +26,9 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title" itemprop="headline" style="text-decoration: none; border-bottom: none; box-shadow: none;">
   {% if post.collection == 'publications' %}
-    {{ title }}
+    <span style="color: #333; font-weight: 700; text-decoration: none; border-bottom: none; box-shadow: none; cursor: default;">{{ title }}</span>
   {% elsif post.link %}
     <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
   {% else %}
