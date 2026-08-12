@@ -40,9 +40,15 @@
           <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
         {% endif %}
 
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}">[link]</a>
-        {% endif %}
+        {% if post.arxivurl %}
+  <a href="{{ post.arxivurl }}">[arXiv]</a>
+{% elsif post.venue == 'arXiv preprint' and post.paperurl %}
+  <a href="{{ post.paperurl }}">[arXiv]</a>
+{% endif %}
+
+{% if post.journalurl %}
+  <a href="{{ post.journalurl }}">[journal]</a>
+{% endif %}
       </p>
 
     {% else %}
