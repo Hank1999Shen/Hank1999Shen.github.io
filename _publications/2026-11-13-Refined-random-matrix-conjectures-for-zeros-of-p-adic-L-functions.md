@@ -1,0 +1,12 @@
+
+---
+title: "Refined random matrix conjectures for zeros of $p$-adic $L$-functions"
+collection: publications
+# permalink: /publications/2026-11-13-Refined-random-matrix-conjectures-for-zeros-of-p-adic-L-functions
+excerpt: ''
+date: 2026-11-13
+venue: 'arXiv preprint'
+arxivurl: 'https://arxiv.org/abs/2611.17706'
+---
+
+https://arxiv.org/abs/2611.17706
